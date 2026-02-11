@@ -1,7 +1,8 @@
 # Pokemon
 
-my pokemon
-
+"poketball"
+"pokemon.exe"
+둘을 같은 위치에 저장해 두어야함!!
 
 
 포켓몬이 등장하며 원하는 포켓몬을 poketball에 gif형식으로 저장하여 끌어낼 수 있다.
